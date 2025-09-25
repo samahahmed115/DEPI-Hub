@@ -11,6 +11,11 @@ It serves as a hub to highlight trainee achievements, connect them with companie
 - Create a reference hub for successful DEPI projects.
 
 ---
+## Team names
+- **samah ahmed
+- **mohamed essam
+- **ahmed refat
+- **faiza
 
 ## ✨ Features
 - **Project Showcase**: Upload project details (name, description, technologies, GitHub/live demo link).
